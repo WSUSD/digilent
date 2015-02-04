@@ -14,7 +14,7 @@
 
 #include <PICxel.h>
 
-#define number_of_LEDs 15
+#define number_of_LEDs 30
 #define LED_pin 0	 
 #define millisecond_delay 50
 
